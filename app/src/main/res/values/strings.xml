@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+    <string name="get_response">Please wait while getting response...</string>
+</resources>
